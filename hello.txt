@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I want to test git.
 
 I love git.
@@ -6,6 +7,9 @@ I love git.
 Good morning.
 
 test.
+=======
+hello, world!
+>>>>>>> parent of d256c00... add another line: I love git
 =======
 hello, world!
 >>>>>>> parent of d256c00... add another line: I love git
