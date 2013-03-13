@@ -7,3 +7,8 @@ void add(){
   d = c + 3;
   print c;
 }
+
+void math(){
+  b = 1 + 2;
+  print b;
+}
